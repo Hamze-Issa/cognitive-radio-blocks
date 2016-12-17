@@ -1,1 +1,2 @@
-# cognitive-radio-blocks
+# cognitive
+Cognitive Radio GNU blocks and examples
